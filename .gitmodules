@@ -4,6 +4,3 @@
 [submodule "source/min-lib"]
 	path = source/min-lib
 	url = https://github.com/Cycling74/min-lib.git
-[submodule "source/projects"]
-	path = source/projects
-	url = https://www.github.com/4dsound/min-devkit-vban
