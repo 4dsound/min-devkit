@@ -51,6 +51,11 @@
 			<description>Set the port number </description>
 		</method>
 
+		<method name='bitdepth'>
+			<digest>Set the bit depth of the signal (16 or 32) </digest>
+			<description>Set the bit depth of the signal (16 or 32) </description>
+		</method>
+
 		<method name='active'>
 			<digest>Start or stop the sender </digest>
 			<description>Start or stop the sender </description>
