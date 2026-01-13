@@ -31,6 +31,11 @@
 
 	<methodlist>
 
+		<method name='version'>
+			<digest>Print the version </digest>
+			<description>Print the version </description>
+		</method>
+
 		<method name='stream'>
 			<digest>Set the stream name </digest>
 			<description>Set the stream name </description>
